@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @dsanc9996
+- I’m @dsanc9996
 - Software Engineer
 - I have experience with C/C++, Python, and JavaScript/Typescript, as well as multiple frameworks.
-- I have limited experience in the web programming space.
 - 📫 You can reach me at: dsanchez35@angelo.edu or dsanc60@gmail.com.
 
 <!---
